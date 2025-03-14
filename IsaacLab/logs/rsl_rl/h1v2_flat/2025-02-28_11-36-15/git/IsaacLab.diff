@@ -1,0 +1,17 @@
+--- git status ---
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/rsl_rl/h1v2_flat/2025-02-27_17-34-40/
+	logs/rsl_rl/h1v2_flat/2025-02-28_11-36-15/
+	outputs/2025-02-27/17-32-35/
+	outputs/2025-02-27/17-34-13/
+	outputs/2025-02-27/17-34-40/
+	outputs/2025-02-28/
+
+nothing added to commit but untracked files present (use "git add" to track) 
+
+
+--- git diff ---
